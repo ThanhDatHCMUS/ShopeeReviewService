@@ -1,0 +1,8 @@
+Fabric
+Flask-SQLAlchemy
+Flask-WTF
+WTForms
+coverage
+pymongo
+redis
+flask-cors
